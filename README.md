@@ -29,7 +29,9 @@
 *Right trigger click also connected to PIO0_1 for activation IAP 
 
 # Useful links
-Steam Controller Teardown(https://ru.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
+* [Steam Controller Teardown](https://ru.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
+* [LPCOpen Software Development Platform LPC11XX](https://www.nxp.com/support/developer-resources/software-development-tools/lpc-developer-resources-/lpcopen-libraries-and-examples/lpcopen-software-development-platform-lpc11xx:LPCOPEN-SOFTWARE-FOR-LPC11XX?tab=Design_Tools_Tab)
+* [MCUXpresso IDE](https://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
 
 # ToDo
 * Add how to build custom firmware
