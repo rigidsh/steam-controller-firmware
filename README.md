@@ -30,3 +30,14 @@
 
 # Useful links
 Steam Controller Teardown(https://ru.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
+
+# ToDo
+* Add how to build custom firmware
+* Add how to flash firmware by IAP
+* Create firmware example with usb debug console
+* Find analog trigger ports
+* Find joystick port
+* Find radio chip port
+* Find gyro port
+* Find touch panels ports
+* Add more ToDos
