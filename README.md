@@ -26,7 +26,7 @@
 | PIO1_26       | Left touch panel click  |
 | PIO1_27       | Left trigger click      |
 
-*Right trigger click also connected to PIO0_1 for activation IAP 
+*Right trigger click also connected to PIO0_1 for activation ISP 
 
 # Useful links
 * [Steam Controller Teardown](https://ru.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
@@ -35,7 +35,7 @@
 
 # ToDo
 * Add how to build custom firmware
-* Add how to flash firmware by IAP
+* Add how to flash firmware by ISP
 * Create firmware example with usb debug console
 * Find analog trigger ports
 * Find joystick port
