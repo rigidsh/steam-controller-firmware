@@ -25,6 +25,8 @@
 | PIO1_25       | Left grip               |
 | PIO1_26       | Left touch panel click  |
 | PIO1_27       | Left trigger click      |
+| ADC_CH1       | Joystick X              |
+| ADC_CH3       | Joystick Y              |
 
 *Right trigger click also connected to PIO0_1 for activation ISP 
 
@@ -38,7 +40,7 @@
 * Add how to flash firmware by ISP
 * Create firmware example with usb debug console
 * Find analog trigger ports
-* Find joystick port
+* ~~Find joystick port~~
 * Find radio chip port
 * Find gyro port
 * Find touch panels ports
