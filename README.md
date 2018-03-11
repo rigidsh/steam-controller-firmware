@@ -30,6 +30,9 @@
 
 *Right trigger click also connected to PIO0_1 for activation ISP 
 
+# How to's
+* [Flash firmware](https://github.com/rigidsh/steam-controller-firmware/wiki/How-to-flash-firmware)
+
 # Useful links
 * [Steam Controller Teardown](https://ru.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
 * [LPCOpen Software Development Platform LPC11XX](https://www.nxp.com/support/developer-resources/software-development-tools/lpc-developer-resources-/lpcopen-libraries-and-examples/lpcopen-software-development-platform-lpc11xx:LPCOPEN-SOFTWARE-FOR-LPC11XX?tab=Design_Tools_Tab)
@@ -37,7 +40,7 @@
 
 # ToDo
 * Add how to build custom firmware
-* Add how to flash firmware by ISP
+* ~~Add how to flash firmware by ISP~~
 * Create firmware example with usb debug console
 * Find analog trigger ports
 * ~~Find joystick port~~
